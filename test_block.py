@@ -12,5 +12,6 @@ def test_socket_modes():
     while (1):
         s.listen(1)
 
+
 if __name__ == "__main__":
     test_socket_modes()
